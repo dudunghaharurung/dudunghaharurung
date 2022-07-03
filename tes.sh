@@ -13,4 +13,4 @@ sudo gitlab-runner start
 
 
 
-sudo gitlab-runner register --url https://gitgud.io/ --registration-token $REGISTRATION_TOKEN
+sudo gitlab-runner register --url https://gitgud.io/ --registration-token GR1348941WLtyyDzM3WXvQx5q-o7y
